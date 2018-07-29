@@ -1,0 +1,7 @@
+C:\Users\Yakel\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Yakel\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Yakel\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Yakel\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\SnakeGame 0.8.csprojAssemblyReference.cache
+C:\Users\Yakel\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\SnakeGame 0.8.csproj.CoreCompileInputs.cache
+C:\Users\Yakel\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Yakel\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
